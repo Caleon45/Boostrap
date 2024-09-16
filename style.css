@@ -1,0 +1,43 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #0a2e40;
+}
+
+.card {
+    border: 1px solid #0a2e40;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    color: #0a2e40;
+}
+
+.carousel .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #0a2e40;
+}
+
+.btn-primary {
+    background-color: #f4b400;
+    border-color: #f4b400;
+}
+
+.btn-group .btn {
+    background-color: #0a2e40;
+    color: #ffffff;
+}
+
+.collapse {
+    margin-top: 10px;
+    background-color: #e0e7ff;
+    padding: 10px;
+    border-radius: 5px;
+}
